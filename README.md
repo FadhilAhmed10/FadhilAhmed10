@@ -6,10 +6,10 @@
 </div>  
   
 
-- 🔭 I’m currently working on UI/UX Design and Webpage Development.  
+- 🔭 I’m currently working on Business Intelligence / Data Visualization using Power BI.  
   
 
-- 🌱 I’m currently learning HTML, CSS and Figma.  
+- 🌱 I’m currently learning Power BI & SQL.  
   
 
 - ⚡ Fun fact: I use dark mode over light mode.  
